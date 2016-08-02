@@ -1,6 +1,6 @@
 {
   "name": "isvg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ajax load inline svg",
   "main": "isvg.js",
   "scripts": {
